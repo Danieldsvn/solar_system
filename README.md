@@ -1,5 +1,5 @@
 # Solar System 
-Nono projeto na Trybe. Este projeto consiste em na simulação de um sistema solar,  bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
+Nono projeto na Trybe. Este projeto consiste na simulação de um sistema solar,  bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
 
 ## Tecnologias empregadas:
 
